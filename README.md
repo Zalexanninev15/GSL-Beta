@@ -18,7 +18,7 @@
 4. Собираем проект 
 5. Выбираем "Открыть папку", копируем полученный файл и закрываем DevelNext
 6. Извлекаем архив "launch.zip" в любую папку
-7. Копируем полученный .exe файл (5) 
+7. Копируем полученный .exe файл (5) в данную папку 
 8. Запускаем лаунчер
 ## Скриншоты
 ![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
