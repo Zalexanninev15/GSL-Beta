@@ -10,6 +10,8 @@
 * Операционная система: Windows 7/8/8.1/10
 * Минимальное количество оперативной памяти: 256 МБ
 * Дополнительно: установленные клиенты магазинов видеоигр (необязательно), Java 8, интернет-соединение (необязательно)
+### Скриншоты
+![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
 ### Сборка (требуется DevelNext)
 1. Скачиваем "launch.zip" и нужную версию самого лаунчера из папки "Sources"
 2. Скачиваем и устанавливаем [DevelNext](https://github.com/jphp-group/develnext/releases)
