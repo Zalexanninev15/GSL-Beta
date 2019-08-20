@@ -12,7 +12,7 @@
 * Дополнительно: установленные клиенты магазинов видеоигр (необязательно), Java 8, интернет-соединение (необязательно)
 ## Сборка (требуется DevelNext)
 1. Скачиваем "launch.zip" и нужную версию самого лаунчера из папки "Sources"
-2. Скачиваем и устанавливаем [DevelNext](https://github.com/jphp-group/develnext/releases)
+2. Скачиваем и устанавливаем [DevelNext](https://github.com/jphp-group/develnext/releases) и [JDK](https://www.oracle.com/technetwork/java/javase/downloads/2133151)
 3. Открываем скачанную версию лаунчера через "открытие проектов" в DevelNext
 4. Собираем проект 
 5. Выбираем "Открыть папку", копируем полученный файл и закрываем DevelNext
