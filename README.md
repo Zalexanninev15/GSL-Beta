@@ -1,8 +1,6 @@
 # Game Stores Launcher
 ## Описание
 Лаунчер, который создан для удобного запуска всех популярных клиентов игровых магазинов.
-## Скриншоты
-![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
 ## Особенности
 * Запуск большинства клиентов игровых магазинов
 * Закрытие любого магазина одной кнопкой
@@ -22,3 +20,5 @@
 6. Извлекаем архив "launch.zip" в любую папку
 7. Копируем полученный .exe файл (5) в данную папку 
 8. Запускаем лаунчер
+## Скриншоты
+![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
