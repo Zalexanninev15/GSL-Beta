@@ -7,6 +7,8 @@
 * Открытый исходный код
 * Тёмная тема
 * Проверка обновлений
+## Скриншоты
+![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
 ## Системные требования
 * Операционная система: Windows 7/8/8.1/10
 * Минимальное количество оперативной памяти: 256 МБ
@@ -20,5 +22,3 @@
 6. Извлекаем архив "launch.zip" в любую папку
 7. Копируем полученный .exe файл (5) в данную папку 
 8. Запускаем лаунчер
-## Скриншоты
-![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
