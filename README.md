@@ -1,4 +1,5 @@
 # Game Stores Launcher
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/GameStoresLauncher/releases/download/0.2.0.0/setup.exe)
 ## Описание
 Лаунчер, который создан для удобного запуска всех популярных клиентов игровых магазинов.
 ## Особенности
