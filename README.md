@@ -1,19 +1,13 @@
 # Game Stores Launcher
 ## [Скачать последнюю версию](https://github.com/Zalexanninev15/GameStoresLauncher/releases/download/0.2.0.0/setup.exe)
+## Скриншоты
+![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
 ## Описание
 Лаунчер, который создан для удобного запуска всех популярных клиентов игровых магазинов.
-## Особенности
-* Запуск большинства клиентов игровых магазинов
-* Закрытие любого магазина одной кнопкой
-* Открытый исходный код
-* Тёмная тема
-* Проверка обновлений
 ## Системные требования
 * Операционная система: Windows 7/8/8.1/10
 * Минимальное количество оперативной памяти: 256 МБ
 * Дополнительно: установленные клиенты магазинов видеоигр (необязательно), Java 8 (или выше), интернет-соединение (необязательно)
-## Скриншоты
-![alt text](https://i.imgur.com/T6s3zfA.png) ![alt text](https://i.imgur.com/LrSLPFV.png) ![alt text](https://i.imgur.com/FasDgkW.png) ![alt text](https://i.imgur.com/UFTGbEx.png)
 ## Сборка (требуется DevelNext и JDK)
 1. Скачиваем "launch.zip" и нужную версию самого лаунчера из папки "Sources"
 2. Скачиваем и устанавливаем [DevelNext](https://github.com/jphp-group/develnext/releases) и [JDK](https://www.oracle.com/technetwork/java/javase/downloads/2133151)
