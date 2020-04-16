@@ -1,5 +1,5 @@
 # Game Stores Launcher
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/Game-Stores-Launcher/releases/tag/0.3)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/Game-Stores-Launcher/releases/tag/0.4)
 ## Скриншоты
 ![alt text](https://i.imgur.com/6E6gGI5.jpg) ![alt text](https://i.imgur.com/8Oac2H7.jpg) ![alt text](https://i.imgur.com/fJUMeFB.jpg) ![alt text](https://i.imgur.com/h6Ehaph.jpg)
 ## Описание
