@@ -1,7 +1,10 @@
 # Game Stores Launcher
 ## [Скачать последнюю версию](https://github.com/Zalexanninev15/Game-Stores-Launcher/releases/tag/0.4) | [ВСЕ ВЕРСИИ](https://github.com/Zalexanninev15/Game-Stores-Launcher/releases)
 ## Скриншоты
-![alt text](https://i.imgur.com/6E6gGI5.jpg) ![alt text](https://i.imgur.com/8Oac2H7.jpg) ![alt text](https://i.imgur.com/fJUMeFB.jpg) ![alt text](https://i.imgur.com/h6Ehaph.jpg)
+![](https://i.imgur.com/dAxP13Q.jpg)
+![](https://i.imgur.com/Iok6dYA.jpg) 
+[](https://i.imgur.com/VZRNqYb.jpg) 
+[](https://i.imgur.com/282C6hF.jpg)
 ## Описание
 Лаунчер, который создан для удобного запуска всех популярных клиентов игровых магазинов.
 ## Особенности
