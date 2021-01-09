@@ -3,8 +3,6 @@
 ## Скриншоты
 ![](https://i.imgur.com/dAxP13Q.jpg)
 ![](https://i.imgur.com/Iok6dYA.jpg) 
-[](https://i.imgur.com/VZRNqYb.jpg) 
-[](https://i.imgur.com/282C6hF.jpg)
 ## Описание
 Лаунчер, который создан для удобного запуска всех популярных клиентов игровых магазинов.
 ## Особенности
